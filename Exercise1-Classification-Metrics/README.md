@@ -1,22 +1,16 @@
 # Purpose of This Directory
 
-This directory should contain any files and instructions necessary for exercises created for this lesson.
+This directory contains any files and instructions necessary for exercises created for this lesson.
 
 ## Folder Structure
 
-Each exercise should be contained in its own folder using the naming convention of `concept#-name-of-concept`. See example below:
-
 ```
-exercises
-    |_ concept1-hello-world
-    |   |_ starter
-    |   |   |_ exercise-files
-    |   |_ solution
-    |   |   |_ solution_files
-    |_ concept2-foo-bar
-    |   |_ starter
-    |   |   |_ exercise-files
-    |   |_ solution
-    |   |   |_ solution_files
-    |_ README.md
+Exercise1-Classification-Metrics
+├── README.md
+├── solution
+│   ├── README.md
+│   └── classification_metrics_solution.ipynb
+└── starter
+    ├── README.md
+    └── classification_metrics_starter.ipynb
 ```
